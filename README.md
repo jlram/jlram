@@ -12,7 +12,7 @@
 - 🏡 I've been working from home since July 2019, based in 📍Granada, Spain
 - 📚 My main tech stack is **Python (Django)** and **Javascript (Vue.js, React.js)**
 - 💪 I'm currently learning Go thanks to [Advent of Code](https://adventofcode.com/2020/about). I'm also interested in learning Typescript
-- ⚡ I love attending to live concerts and listening to music while working 🎧
+- ⚡ I love attending to live concerts and listening to chill music while working 🎧
 
 ### Languages and Tools 🛠 
 
@@ -23,15 +23,16 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-61DAFB?style=flat-square&logo=go&logoColor=ffffff&color=29BEB0)
 ![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-61DAFB?style=flat-square&logo=amazon-aws&logoColor=ffffff&color=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-61DAFB?style=flat-square&logo=postgresql&logoColor=ffffff&color=0064a5)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-61DAFB?style=flat-square&logo=postgresql&logoColor=ffffff&color=0064a5)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Linux based OS](https://img.shields.io/badge/-Linux%20based%20OS-61DAFB?style=flat-square&logo=linux&logoColor=ffffff&color=E95420)
+![UNIX based OS](https://img.shields.io/badge/-UNIX%20based%20OS-61DAFB?style=flat-square&logo=gnu-bash&logoColor=ffffff&color=E95420)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlram&show_icons=true&hide_border=true" />
 
