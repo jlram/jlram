@@ -19,7 +19,7 @@
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-%231572B6?style=flat-square&logo=django&logoColor=white&color=092e20)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue](https://img.shields.io/badge/-Vue-%231572B6?style=flat-square&logo=javascript&logoColor=white&color=41B883)
+![Vue](https://img.shields.io/badge/-Vue-%231572B6?style=flat-square&logo=vue.js&logoColor=white&color=41B883)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-61DAFB?style=flat-square&logo=go&logoColor=ffffff&color=29BEB0)
 ![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
@@ -31,7 +31,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Linux based OS](https://img.shields.io/badge/-Linux%20based%20OS-61DAFB?style=flat-square&logo=linux&logoColor=ffffff&color=E95420)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlram&show_icons=true&hide_border=true" />
