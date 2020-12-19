@@ -11,8 +11,8 @@
 - 👨‍💻 I currently work for [enreda](https://enreda.coop/) and [OpenODS](http://openods.es/)
 - 🏡 I've been working from home since July 2019, based in 📍Granada, Spain
 - 📚 My main tech stack is **Python (Django)** and **Javascript (Vue.js, React.js)**
-- 💪 I'm currently learning Go thanks to [Advent of Code](https://adventofcode.com/2020/about). I'm interested in learning Typescript
-- 🎧 I love assisting to live concerts and listening to music while working ⚡
+- 💪 I'm currently learning Go thanks to [Advent of Code](https://adventofcode.com/2020/about). I'm also interested in learning Typescript
+- ⚡ I love assisting to live concerts and listening to music while working 🎧
 
 ### Languages and Tools 🛠 
 
