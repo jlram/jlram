@@ -8,22 +8,24 @@
 
 ## I'm a Full Stack Software Developer
 
-- 👨‍💻 I currently work for [enreda](https://enreda.coop/) and [OpenODS](http://openods.es/)
+- 👨‍💻 I currently work for [The Hotels Network](https://thehotelsnetwork.com/en/) as a Frontend Developer 🎨
 - 🏡 I've been working from home since July 2019, based in 📍Granada, Spain
-- 📚 My main tech stack is **Python (Django)** and **Javascript (Vue.js, React.js)**
-- 💪 I'm currently learning Go by developing some projects with it. I'm also interested in Node.js and Typescript
+- 🚀 My favourite JS framework is **Vue.js**, but I've also worked with **React.js** 
+- 🛠️ I also love **Python** and **Django** as my backend tools
+- 💪 I'm currently learning Typescript and Golang. I'm also interested in Docker and Node.js
 - ⚡ I love attending to live concerts and listening to chill music while working 🎧
 
 ### Languages and Tools 🛠 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23F7DF1C)
+![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
+![Vue](https://img.shields.io/badge/-Vue-%231572B6?style=flat-square&logo=vue.js&logoColor=white&color=41B883)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-%231572B6?style=flat-square&logo=django&logoColor=white&color=092e20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23F7DF1C)
-![Vue](https://img.shields.io/badge/-Vue-%231572B6?style=flat-square&logo=vue.js&logoColor=white&color=41B883)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/-Go-61DAFB?style=flat-square&logo=go&logoColor=ffffff&color=29BEB0)
-![Typescript](https://img.shields.io/badge/-Typescript-61DAFB?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-61DAFB?style=flat-square&logo=amazon-aws&logoColor=ffffff&color=black)
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-61DAFB?style=flat-square&logo=postgresql&logoColor=ffffff&color=0064a5)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
