@@ -8,7 +8,7 @@
 
 ## I'm a Full Stack Software Developer
 
-- 👨‍💻 I currently work for [The Hotels Network](https://thehotelsnetwork.com/en/) as a Frontend Developer 🎨
+- 👨‍💻 I currently work at [The Hotels Network](https://thehotelsnetwork.com/en/) as a Frontend Developer 🎨
 - 🏡 I've been working from home since July 2019, based in 📍Granada, Spain
 - 🚀 My favourite JS framework is **Vue.js**, but I've also worked with **React.js** 
 - 🛠️ I also love **Python** and **Django** as my backend tools
