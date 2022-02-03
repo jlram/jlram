@@ -6,9 +6,9 @@
 
 <img align="right" alt="GIF" height="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
 
-## I'm a Full Stack Software Developer
+## I'm a Frontend Software Developer
 
-- 👨‍💻 I currently work at [The Hotels Network](https://thehotelsnetwork.com/en/) as a Frontend Developer 🎨
+- 👨‍💻 I currently work at [The Hotels Network](https://thehotelsnetwork.com/en/) 🏨
 - 🏡 I've been working from home since July 2019, based in 📍Granada, Spain
 - 🚀 My favourite JS framework is **Vue.js**, but I've also worked with **React.js** 
 - 🛠️ I also love **Python** and **Django** as my backend tools
