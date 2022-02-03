@@ -4,7 +4,7 @@
 
 # Hi there, I'm [José Luis][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
 
 ## I'm a Full Stack Software Developer
 
@@ -36,7 +36,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![UNIX based OS](https://img.shields.io/badge/-UNIX%20based%20OS-61DAFB?style=flat-square&logo=gnu-bash&logoColor=ffffff&color=E95420)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlram&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlram&show_icons=true&hide_border=true?&theme=vue-dark" />
 
 
 
