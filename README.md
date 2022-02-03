@@ -2,7 +2,7 @@
 <!--
 **jlram/jlram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Hi there, I'm [José Luis][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm [José Luis][website] 👋
 
 <img align="right" alt="GIF" height="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
 
