@@ -4,7 +4,7 @@
 
 # Hi there, I'm [José Luis][website] 👋
 
-<img align="right" alt="GIF" height="125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
+<img align="right" alt="GIF" height="150px" src="https://user-images.githubusercontent.com/499550/93624428-53932780-f9ae-11ea-8d16-af949e16a09f.png" />
 
 ## I'm a Frontend Software Developer
 
