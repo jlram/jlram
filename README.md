@@ -33,7 +33,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![UNIX based OS](https://img.shields.io/badge/-UNIX%20based%20OS-61DAFB?style=flat-square&logo=gnu-bash&logoColor=ffffff&color=E95420)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlram&show_icons=true&hide_border=true?&theme=vue-dark" />
