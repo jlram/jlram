@@ -35,8 +35,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![UNIX based OS](https://img.shields.io/badge/-UNIX%20based%20OS-61DAFB?style=flat-square&logo=gnu-bash&logoColor=ffffff&color=E95420)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlram&show_icons=true&hide_border=true?&theme=vue-dark" />
 
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jlram&show_icons=true&hide_border=true?&theme=vue-dark"/> </a>
 
 
 [website]: https://www.linkedin.com/in/jos%C3%A9-luis-ramos-34975b152/
